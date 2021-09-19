@@ -110,7 +110,9 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	/* background: url(../img/back.jpg) no-repeat center top; */
+  background: url(../img/kathryn-aleksa-O8jFliG2rCI-unsplash.jpg) no-repeat center top;
+ 
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
