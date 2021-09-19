@@ -225,6 +225,15 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
+#workwrap h3 {
+	color:#FFB740;
+	/* padding-top: 10px; */
+	/* padding-bottom: 20px; */
+	letter-spacing: 4px;
+	font-size: 40px;
+	font-weight: bold;
+}
+
 #aboutwrap {
 	background: url(../img/Cole_Headshot_2.jpeg) no-repeat center top;
 	margin-top: -70px;
