@@ -110,8 +110,8 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	/* background: url(../img/back.jpg) no-repeat center top; */
-  background: url(../img/kathryn-aleksa-O8jFliG2rCI-unsplash.jpg) no-repeat center top;
+	background: url(../img/back.jpg) no-repeat center top;
+  /* background: url(../img/kathryn-aleksa-O8jFliG2rCI-unsplash.jpg) no-repeat center top; */
  
 	margin-top: -70px;
 	padding-top: 250px;
@@ -142,10 +142,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h4 {
-	/* font-weight: 400; */
+	font-weight: 400;
 	
   font-size: 40px;
-  font-weight: bold;
+  /* font-weight: bold; */
   color: #FFB740
 }
 
