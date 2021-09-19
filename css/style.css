@@ -140,8 +140,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h4 {
-	font-weight: 400;
+	/* font-weight: 400; */
 	color: #FFB740
+  font-size: 40px;
+  font-weight: bold;
 }
 
 @media (max-width: 768px) {
