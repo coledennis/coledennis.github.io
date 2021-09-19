@@ -192,12 +192,20 @@ h1, h2, h3, h4, h5, h6 {
 
 #workwrap {
 	/* background: url(../img/work.jpg) no-repeat center top; */
-	margin-top: -70px;
+	/* margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 650px;
+	width: 100%; */
+
+  margin-top: -35px;
+	padding-top: 125px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 325px;
 	width: 100%;
 
     -webkit-background-size: 100%;
