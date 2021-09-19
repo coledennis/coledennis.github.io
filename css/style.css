@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #1abc9c
+	color: #FFB740
 }
 
 #footerwrap {
@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button  {
-  background: #1abc9c;
+  background: #FFB740;
   border: 0;
   padding: 14px 40px;
   color: #fff;
@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
   width: 24px;
   height: 24px;
-  border: 3px solid #18d26e;
+  border: 3px solid #FFB740;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 .contact-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #FFB740;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #copyrights a {
-  color: #1abc9c;
+  color: #FFB740;
 }
 
 .credits {
