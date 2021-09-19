@@ -149,6 +149,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #FFB740
 }
 
+#headerwrap h3 {
+	color:#FFB740;
+	/* padding-top: 10px; */
+	/* padding-bottom: 20px; */
+	letter-spacing: 4px;
+	font-size: 40px;
+	font-weight: bold;
+}
+
 @media (max-width: 768px) {
   #headerwrap {
     padding-top: 180px;
