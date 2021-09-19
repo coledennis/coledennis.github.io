@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap h1 {
-	color:#ffffff;
+	color:#FFB740;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap h3 {
-	color:#FFB740;
+	color:#4a4a4a;
 	/* padding-top: 10px; */
 	/* padding-bottom: 20px; */
 	letter-spacing: 4px;
