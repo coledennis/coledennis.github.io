@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap {
-	background: url(../img/work.jpg) no-repeat center top;
+	/* background: url(../img/work.jpg) no-repeat center top; */
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
